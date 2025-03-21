@@ -3,16 +3,16 @@ const images = [
     {id: "2", image: "/0002.jpg"},
     {id: "3", image: "/0003.jpg"},
     {id: "4", image: "/0004.jpg"},
-    {id: "6", image: "/0006.jpg"},
-    {id: "5", image: "/0005.jpg"},
+    {id: "6", image: "/0005.jpg"},
+    {id: "5", image: "/0006.jpg"},
     {id: "7", image: "/0007.jpg"},
     {id: "8", image: "/0008.jpg"},
     {id: "9", image: "/0009.jpg"},
-    {id: "15", image: "/003.jpg"},
-    {id: "10", image: "/0010.jpg"},
-    {id: "11", image: "/0011.jpg"},
-    {id: "12", image: "/0012.jpg"},
-    {id: "13", image: "/0013.jpg"},
+    {id: "15", image: "/0010.jpg"},
+    {id: "10", image: "/0011.jpg"},
+    {id: "11", image: "/0012.jpg"},
+    {id: "12", image: "/0013.jpg"},
+    {id: "13", image: "/0014.jpg"},
 ]
 
 export default function CardapioPage(){
