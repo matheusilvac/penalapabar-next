@@ -11,10 +11,9 @@ const montserrat = Josefin_Sans({
   display: "swap",
 });
 
-
 export const metadata: Metadata = {
   title: "Pé na Lapa",
-  description: "Melhor restaurante da Lapa",
+  description: "O Melhor restaurante da Lapa",
 };
 
 export default function RootLayout({
